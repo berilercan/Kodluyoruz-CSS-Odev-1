@@ -1,0 +1,23 @@
+/* yorum satırı deneme */
+
+body {
+    background-color:rgb(254, 253, 253);
+}
+
+h1 {
+    font-size: 40px;
+    color: #3a1659;
+    background-color:Tomato;
+}
+
+h3, h4 {
+    color: violet;
+}
+
+.index-container, header {
+    text-align: center;
+}
+
+li {
+    list-style-position: inside
+}
